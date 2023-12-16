@@ -28,7 +28,7 @@ wget -N https://raw.githubusercontent.com/bhqz/Alwaysdata-vmess-vless-trojan-/ma
 ### trojan
 
 ```shell
-wget -N https://raw.githubusercontent.com/bhqz/Alwaysdata-vmess-vless-trojan-/main/trojan.sh && chmod +x ./trojan.sh
+wget -N https://raw.githubusercontent.com/cym31153/alwaysvptn/main/tj.sh && chmod +x ./tj.sh
 ```
 
 2. 修改网站空间配置
